@@ -1,0 +1,3 @@
+../Core/Src/my_fsm.c:24:6:command_parser_fsm	6
+../Core/Src/my_fsm.c:45:6:uart_communiation_fsm	7
+../Core/Src/my_fsm.c:68:10:fsm_value	1

@@ -1,0 +1,2 @@
+../Core/Src/my_adc.c:14:10:adc_GetValue	8	static
+../Core/Src/my_adc.c:25:6:adc_init	8	static
